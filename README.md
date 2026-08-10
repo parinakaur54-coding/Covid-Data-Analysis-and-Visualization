@@ -1,7 +1,3 @@
-# COVID-19 Data Analysis & Visualization
-
-## 1. Title
-
 # COVID-19 Data Analysis Using SQL & Tableau
 
 An exploratory data analysis project examining the global impact of COVID-19 through **SQL data analysis and interactive Tableau visualizations**.
@@ -16,7 +12,7 @@ The project analyzes COVID-19 cases, deaths, infection rates, and population imp
 
 ---
 
-## 2. Executive Summary
+## Executive Summary
 
 The COVID-19 pandemic had a significant global impact, affecting populations, healthcare systems, and economies worldwide. This project analyzes COVID-19 data to understand the scale and distribution of the pandemic.
 
@@ -36,7 +32,7 @@ The analysis provides an overview of how COVID-19 affected different regions and
 
 ---
 
-## 3. Business Problem
+## Business Problem
 
 The COVID-19 pandemic generated a massive amount of data, making it difficult to quickly understand the overall scale and differences in impact between countries.
 
@@ -55,7 +51,7 @@ The objective of this project is to transform raw COVID-19 data into **clear, me
 
 ---
 
-## 4. Methodology
+## Methodology
 
 ### Data Analysis Workflow
 
@@ -159,7 +155,7 @@ The dashboard allows users to explore COVID-19 statistics and compare the pandem
 
 ---
 
-## 5. Skills
+## Skills
 
 ### Technical Skills
 
@@ -200,7 +196,7 @@ The dashboard allows users to explore COVID-19 statistics and compare the pandem
 
 ---
 
-## 6. Results & Business Recommendation
+## Results & Business Recommendation
 
 ### Key Results
 
@@ -249,7 +245,7 @@ Based on the analysis, organizations and policymakers should:
 
 ---
 
-## 7. Next Steps
+## Next Steps
 
 Future improvements to this project could include:
 
