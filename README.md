@@ -269,24 +269,6 @@ Future improvements to this project could include:
 
 ---
 
-## Project Structure
-
-```text
-COVID-19-Data-Analysis/
-│
-├── README.md
-│
-├── SQL/
-│   └── covid_analysis_queries.sql
-│
-├── Data/
-│   └── covid_analysis.xlsx
-│
-└── Tableau/
-    └── covid_analysis_dashboard.twbx
-```
-
----
 
 ### Tools & Technologies
 
