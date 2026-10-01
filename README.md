@@ -228,46 +228,31 @@ Based on the analysis, organizations and policymakers should:
 
 ---
 
-## 💻 Skills
+## 💻 Skills & Technologies
 
 ### 🛠️ Technical Skills
 
-**SQL**
-
-* Data aggregation
-* `SUM()`
-* `MAX()`
-* `GROUP BY`
-* `ORDER BY`
-* Filtering with `WHERE`
-* Data type conversion using `CAST()`
-* Calculated metrics
-
-**Tableau**
-
-* Dashboard development
-* Data visualization
-* Bar charts
-* KPI displays
-* Geographic analysis
-* Interactive filtering
-
-**Microsoft Excel**
-
-* Data storage
-* Data preparation
-* Dataset transfer between SQL and Tableau
+|         🗄️ SQL         |       📊 Tableau      | 📗 Microsoft Excel |
+| :---------------------: | :-------------------: | :----------------: |
+|     Data Aggregation    | Dashboard Development |  Data Preparation  |
+|    `SUM()` & `MAX()`    |   Data Visualization  |    Data Storage    |
+| `GROUP BY` & `ORDER BY` |       Bar Charts      |   Dataset Export   |
+|    `WHERE` & `CAST()`   |      KPI Displays     |    Data Transfer   |
+|    Calculated Metrics   |  Geographic Analysis  |                    |
+|                         | Interactive Filtering |                    |
 
 ### 🧠 Analytical Skills
 
-* Exploratory Data Analysis
-* Data Cleaning
-* Data Transformation
-* KPI Analysis
-* Trend Analysis
-* Comparative Analysis
-* Data Visualization
-* Business Insight Generation
+<p>
+  <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-4C78A8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Cleaning-59A14F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Transformation-F28E2B?style=flat-square" />
+  <img src="https://img.shields.io/badge/KPI%20Analysis-E15759?style=flat-square" />
+  <img src="https://img.shields.io/badge/Trend%20Analysis-76B7B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Comparative%20Analysis-B07AA1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-EDC948?style=flat-square" />
+  <img src="https://img.shields.io/badge/Business%20Insights-FF9DA7?style=flat-square" />
+</p>
 
 ---
 
@@ -298,19 +283,3 @@ Explore the interactive Tableau dashboard to visualize COVID-19 statistics and c
 </p>
 
 ---
-
-## 👩‍💻 Author
-
-**Pareendeep Kaur**
-
-**Project:** COVID-19 Data Analysis Using SQL & Tableau
-
-**Tools:** SQL Server · Microsoft Excel · Tableau
-
-**Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/pareendeep.kaur/viz/Covidanalysis_17862434967380/Dashboard1)
-
----
-
-<p align="center">
-  ⭐ If you found this project interesting, feel free to explore the dashboard!
-</p>
