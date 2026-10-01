@@ -1,18 +1,42 @@
-# COVID-19 Data Analysis Using SQL & Tableau
+# 🌍 COVID-19 Data Analysis Using SQL & Tableau
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-007ACC?style=for-the-badge" />
+</p>
 
 An exploratory data analysis project examining the global impact of COVID-19 through **SQL data analysis and interactive Tableau visualizations**.
 
 The project analyzes COVID-19 cases, deaths, infection rates, and population impact across different countries and continents to identify major trends and provide data-driven insights.
 
-**Tools Used:**
-`SQL Server` · `Microsoft Excel` · `Tableau`
+### 📊 Interactive Dashboard
 
-**Interactive Dashboard:**
-[View the COVID-19 Tableau Dashboard](https://public.tableau.com/app/profile/pareendeep.kaur/viz/Covidanalysis_17862434967380/Dashboard1?utm_source=chatgpt.com)
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/pareendeep.kaur/viz/Covidanalysis_17862434967380/Dashboard1">
+    <img src="https://img.shields.io/badge/Explore%20Interactive%20Dashboard-View%20on%20Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Executive Summary
+# 📑 Table of Contents
+
+| Section                                                                      | Description                            |
+| ---------------------------------------------------------------------------- | -------------------------------------- |
+| [📌 Executive Summary](#-executive-summary)                                  | Overview of the project                |
+| [🎯 Business Problem](#-business-problem)                                    | Research questions and objectives      |
+| [⚙️ Methodology](#️-methodology)                                             | Data analysis workflow and SQL queries |
+| [📊 Results & Business Recommendations](#-results--business-recommendations) | Key findings and recommendations       |
+| [💻 Skills](#-skills)                                                        | Technical and analytical skills        |
+| [🚀 Next Steps](#-next-steps)                                                | Potential project improvements         |
+| [📈 Dashboard](#-dashboard)                                                  | Interactive Tableau visualization      |
+| [👩‍💻 Author](#-author)                                                     | Project information                    |
+
+---
+
+## 📌 Executive Summary
 
 The COVID-19 pandemic had a significant global impact, affecting populations, healthcare systems, and economies worldwide. This project analyzes COVID-19 data to understand the scale and distribution of the pandemic.
 
@@ -32,11 +56,11 @@ The analysis provides an overview of how COVID-19 affected different regions and
 
 ---
 
-## Business Problem
+## 🎯 Business Problem
 
 The COVID-19 pandemic generated a massive amount of data, making it difficult to quickly understand the overall scale and differences in impact between countries.
 
-The key questions addressed in this project are:
+### Key Questions
 
 * What was the total number of COVID-19 cases and deaths globally?
 * Which locations experienced the highest number of deaths?
@@ -45,15 +69,15 @@ The key questions addressed in this project are:
 * How did COVID-19 infections change over time?
 * Which continents and regions experienced the greatest impact?
 
-### Objective
+### 🎯 Objective
 
 The objective of this project is to transform raw COVID-19 data into **clear, meaningful, and interactive insights** that can help users understand the global impact of the pandemic and compare its effects across different locations.
 
 ---
 
-## Methodology
+## ⚙️ Methodology
 
-### Data Analysis Workflow
+### 🔄 Data Analysis Workflow
 
 ```text
 COVID-19 Dataset
@@ -155,76 +179,35 @@ The dashboard allows users to explore COVID-19 statistics and compare the pandem
 
 ---
 
-## Skills
+## 📊 Results & Business Recommendations
 
-### Technical Skills
-
-* **SQL**
-
-  * Data aggregation
-  * `SUM()`
-  * `MAX()`
-  * `GROUP BY`
-  * `ORDER BY`
-  * Filtering with `WHERE`
-  * Data type conversion using `CAST()`
-  * Calculated metrics
-* **Tableau**
-
-  * Dashboard development
-  * Data visualization
-  * Bar charts
-  * KPI displays
-  * Geographic analysis
-  * Interactive filtering
-* **Microsoft Excel**
-
-  * Data storage
-  * Data preparation
-  * Dataset transfer between SQL and Tableau
-
-### Analytical Skills
-
-* Exploratory Data Analysis
-* Data Cleaning
-* Data Transformation
-* KPI Analysis
-* Trend Analysis
-* Comparative Analysis
-* Data Visualization
-* Business Insight Generation
-
----
-
-## Results & Business Recommendation
-
-### Key Results
+### 📈 Key Results
 
 The analysis provides several important insights into the global impact of COVID-19.
 
-#### Global Impact
+### 🌍 Global Impact
 
 The dashboard calculates approximately:
 
-| Metric                  |         Result |
-| ----------------------- | -------------: |
-| Total Cases             | 150.57 Million |
-| Total Deaths            |   3.18 Million |
-| Global Death Percentage |            ~2% |
+| Metric                     |         Result |
+| -------------------------- | -------------: |
+| 🦠 Total Cases             | 150.57 Million |
+| ⚠️ Total Deaths            |   3.18 Million |
+| 📉 Global Death Percentage |            ~2% |
 
 These figures demonstrate the significant scale of the pandemic and its impact on populations worldwide.
 
-### Deaths by Continent
+### 🌎 Deaths by Continent
 
 The analysis shows substantial differences in total death counts between continents. Europe and North America represent some of the regions with the highest recorded death counts in the analyzed dataset.
 
-### Infection Rate
+### 🧬 Infection Rate
 
 The percentage of population infected provides a more meaningful comparison between countries than total case counts alone.
 
 A country with a smaller population may have fewer total cases but still experience a very high proportion of its population becoming infected.
 
-### Business Recommendations
+### 💡 Business Recommendations
 
 Based on the analysis, organizations and policymakers should:
 
@@ -245,33 +228,89 @@ Based on the analysis, organizations and policymakers should:
 
 ---
 
-## Next Steps
+## 💻 Skills
+
+### 🛠️ Technical Skills
+
+**SQL**
+
+* Data aggregation
+* `SUM()`
+* `MAX()`
+* `GROUP BY`
+* `ORDER BY`
+* Filtering with `WHERE`
+* Data type conversion using `CAST()`
+* Calculated metrics
+
+**Tableau**
+
+* Dashboard development
+* Data visualization
+* Bar charts
+* KPI displays
+* Geographic analysis
+* Interactive filtering
+
+**Microsoft Excel**
+
+* Data storage
+* Data preparation
+* Dataset transfer between SQL and Tableau
+
+### 🧠 Analytical Skills
+
+* Exploratory Data Analysis
+* Data Cleaning
+* Data Transformation
+* KPI Analysis
+* Trend Analysis
+* Comparative Analysis
+* Data Visualization
+* Business Insight Generation
+
+---
+
+## 🚀 Next Steps
 
 Future improvements to this project could include:
 
-* Adding **COVID-19 vaccination data**
-* Analyzing **vaccination rates vs. death rates**
-* Adding **hospitalization and ICU data**
-* Creating more detailed **country-level comparisons**
-* Adding interactive **date filters**
-* Analyzing relationships between **population, infection rate, and mortality**
-* Incorporating additional demographic and socioeconomic indicators
-* Automating the SQL-to-Tableau data pipeline
-* Expanding the dashboard with additional KPIs and predictive analysis
-
-### Dashboard
-
-[Explore the Interactive Tableau Dashboard →](https://public.tableau.com/app/profile/pareendeep.kaur/viz/Covidanalysis_17862434967380/Dashboard1?utm_source=chatgpt.com)
+* [ ] Adding **COVID-19 vaccination data**
+* [ ] Analyzing **vaccination rates vs. death rates**
+* [ ] Adding **hospitalization and ICU data**
+* [ ] Creating more detailed **country-level comparisons**
+* [ ] Adding interactive **date filters**
+* [ ] Analyzing relationships between **population, infection rate, and mortality**
+* [ ] Incorporating additional demographic and socioeconomic indicators
+* [ ] Automating the SQL-to-Tableau data pipeline
+* [ ] Expanding the dashboard with additional KPIs and predictive analysis
 
 ---
 
+## 📈 Dashboard
 
-### Tools & Technologies
+Explore the interactive Tableau dashboard to visualize COVID-19 statistics and compare the impact across different countries and continents.
 
-`SQL Server` `Microsoft Excel` `Tableau` `Data Analysis` `Data Visualization`
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/pareendeep.kaur/viz/Covidanalysis_17862434967380/Dashboard1">
+    <img src="https://img.shields.io/badge/📊%20View%20Interactive%20Dashboard-Tableau%20Public-E97627?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-**Author:** Pareendeep Kaur
-**Project:** COVID-19 Data Analysis
-**Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/pareendeep.kaur/viz/Covidanalysis_17862434967380/Dashboard1?utm_source=chatgpt.com)
+## 👩‍💻 Author
+
+**Pareendeep Kaur**
+
+**Project:** COVID-19 Data Analysis Using SQL & Tableau
+
+**Tools:** SQL Server · Microsoft Excel · Tableau
+
+**Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/pareendeep.kaur/viz/Covidanalysis_17862434967380/Dashboard1)
+
+---
+
+<p align="center">
+  ⭐ If you found this project interesting, feel free to explore the dashboard!
+</p>
