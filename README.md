@@ -228,7 +228,7 @@ Based on the analysis, organizations and policymakers should:
 
 ---
 
-## 💻 Skills & Technologies
+## 💻 Skills
 
 ### 🛠️ Technical Skills
 
